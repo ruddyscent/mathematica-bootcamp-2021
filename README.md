@@ -7,4 +7,4 @@ Introduction to Mathematica for high school teachers
  * 4강: [미적분](mathematica_bootcamp_4.nb)
  * 5강: [선형대수](mathematica_bootcamp_5.nb)
  * 6강: [확률과 통계](mathematica_bootcamp_6.nb)
- * 7강: [문제풀이 1](problem-set-1.nb) [문제풀이 2](problem-set-2.nb) [문제풀이 3](problem-set-3.nb)
+ * 7강: [문제풀이 1](problem-set-1.nb), [문제풀이 2](problem-set-2.nb), [문제풀이 3](problem-set-3.nb)
